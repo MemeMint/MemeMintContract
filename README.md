@@ -1,2 +1,3 @@
 # MemeMintContract
-Welcome to MemeMint, where magic meets the blockchain. Our journey began with a simple idea – to blend the enchanting world of memes with the power of blockchain technology. We believe that humor and innovation can coexist to create something truly unique.
+Welcome to MemeMint, where magic meets the blockchain. Our journey began with a simple idea – to blend the enchanting world of memes with the power of blockchain technology. We believe that humor and innovation can coexist to create something truly unique. Meet Minty the Magician, the heart and soul of our project, and join us in exploring the endless possibilities.
+At MemeMint, we are more than just a cryptocurrency project; we're a community-driven movement at the intersection of memes, blockchain technology, and creative expression. Our journey began in October 2023, fueled by a shared passion for the limitless world of internet humor and the immense potential of blockchain.
