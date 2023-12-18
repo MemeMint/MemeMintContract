@@ -1,0 +1,23 @@
+{
+	"optimizer": {
+		"enabled": true,
+		"runs": 200
+	},
+	"outputSelection": {
+		"*": {
+			"*": [
+				"evm.bytecode",
+				"evm.deployedBytecode",
+				"devdoc",
+				"userdoc",
+				"metadata",
+				"abi"
+			]
+		}
+	},
+	"libraries": {
+		"TokenDividendTracker.sol": {
+			"IterableMapping": "0x31ee4a53Bd2C1c339662DfFB973017EF81A6bad5"
+		}
+	}
+}
