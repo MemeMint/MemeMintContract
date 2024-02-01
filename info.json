@@ -1,0 +1,29 @@
+{
+    "name": "MEME MINT",
+    "website": "https://www.mememintcoin.com/home",
+    "description": "Welcome to MemeMint, where magic meets the blockchain. Our journey began with a simple idea – to blend the enchanting world of memes with the power of blockchain technology.",
+    "explorer": "https://bscscan.com/",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "MEMEMINT",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/MemeMint/MemeMintContract"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MemeMintCoin"
+     
+       },
+        {
+            "name": "whitepaper",
+            "url": "https://www.mememintcoin.com/whitepaper-mememint"
+        }
+    ]
+}
